@@ -21,7 +21,7 @@ function clearResult() {
 
 function calculateRes() {
   // inputEl.value = eval(inputEl.value).toFixed(2)
-  inputEl.value = "AKO NA LANG KASEEE :)";
+  inputEl.value = "AKO NA LANG KASE:)";
 }
 
 function appendValue(buttonValue) {
